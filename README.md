@@ -1,6 +1,6 @@
 # Fully-Spectral-CNN
 
-This repository contains the High-Level Synthesis (HLS) source codes and testbenches for the Spectral Convolutional Neural Network (SpCNN) accelerator proposed in the paper. To ensure full transparency and reproducibility, we share the optimized codes for the evaluated SpCNN configurations plotted in the ME and PE frontiers, making the pragma placement and optimization strategies clear and transparent. It includes the energy-optimized D3 and D4 configurations of the FD-CNN and CD-CNN architectures trained on the MNIST dataset.
+This repository contains the High-Level Synthesis (HLS) source codes and testbenches for the Spectral Convolutional Neural Network (SpCNN) accelerator proposed in the paper. To ensure full transparency and reproducibility, we share the optimized codes for the evaluated SpCNN configurations plotted in the ME and PE frontiers, making the pragma placement and optimization strategies clear and transparent. It includes the energy-optimized D3 and D4 configurations of the FD-CNN and CD-CNN architectures, respectively trained on the MNIST dataset.
 
 ## Hardware & Software Environment
 
